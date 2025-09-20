@@ -1,5 +1,6 @@
 # task-tracker-cli
-This task tracker uses uv as package manager
+
+This task tracker uses uv as package manager made for [roadmap task tracker](https://roadmap.sh/projects/task-tracker)
 
 ```
 uv sync
